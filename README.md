@@ -120,7 +120,7 @@ Publicly available at: https://www.fda.gov/drugs/questions-and-answers-fdas-adve
 
 ## Author
 
-**[Shivani]**
+**Shivani**
 B.Tech Biotechnology, 2026
 
 ---
