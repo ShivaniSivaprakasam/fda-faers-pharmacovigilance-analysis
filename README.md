@@ -66,22 +66,19 @@ This is documented here deliberately: catching and correctly fixing a real doubl
 ### Dashboard 1 — Demographics & Reporting
 *(Q1 – Q4: age/gender distribution, reporting lag, country concentration)*
 
-`[screenshots/dashboard1_demographics_reporting.png]`
+<img width="1660" height="851" alt="image" src="https://github.com/user-attachments/assets/b0b2067b-66f2-479d-aa7a-c5251925bee6" />
+
 
 ### Dashboard 2 — Drug-Level Analysis
 *(Q5, Q6, Q7, Q8: top drugs, serious outcome rates, PRR/ROR signals, top indications)*
 
-`[screenshots/dashboard2_drug_analysis.png]`
+<img width="1838" height="728" alt="image" src="https://github.com/user-attachments/assets/4409aaa2-a1ff-485f-a9a9-c295ae463da2" />
+
 
 ### Dashboard 3 — Reaction & Outcome Analysis
 *(Q9 – Q13: top reactions, country death rate map, reporter source, therapy duration, dechallenge/rechallenge)*
 
-`[screenshots/dashboard3_reaction_outcome.png]`
-
-> Replace the bracketed paths above with real image links once screenshots are added to a `/screenshots` folder in this repository, e.g.:
-> `![Dashboard 1](screenshots/dashboard1_demographics_reporting.png)`
-
-**Live Tableau Public workbook:** `[Add your published Tableau Public link here]`
+<img width="1837" height="732" alt="image" src="https://github.com/user-attachments/assets/f0c34077-b61d-4cbe-a277-b23b821791b7" />
 
 ---
 
@@ -125,7 +122,6 @@ Publicly available at: https://www.fda.gov/drugs/questions-and-answers-fdas-adve
 
 **[Shivani]**
 B.Tech Biotechnology, 2026
-`[LinkedIn]` · `[GitHub]` · `[Email]`
 
 ---
 
